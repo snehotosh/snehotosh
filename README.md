@@ -5,4 +5,5 @@ I have around 18 years of experience across Data Warehouse modelling, Data Engin
 - 💬 Ask me about AI Engineering and MLOps implementation.
 - 📫 How to reach me: Twitter - @snehotosh, Medium - https://snehotoshbanerjee.medium.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=snehotosh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Snehotosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehotosh&count_private=true&show_icons=true&hide_title=true)](https://github.com/snehotosh/github-readme-stats)
+
